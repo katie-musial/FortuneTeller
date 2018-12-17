@@ -8,8 +8,11 @@ import android.view.View;
 import edu.nyu.cs.kbm345.fortuneteller.R;
 
 /**
- * A class that displays a group of four odd numbers (buttons)
- */
+* A program that allows a user to pick a color and some numbers to have their fortune told.
+* @author katiemusial
+* @version 0.1
+*/ 
+
 public class DisplayNumber extends AppCompatActivity {
 
     @Override
